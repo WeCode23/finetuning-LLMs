@@ -5,12 +5,12 @@ This notebook consists of an end to end execution of fine tuning an existing LLM
 with the existing or custom datasets.
 
 Here we will first learn 
-  # - Supervised fine tuning an LLM model (SFT)
-  # - Further improve the model's output to align better with human preferences using technique called as "Direct Preference optimization (DPO)"
-  # - Generate responses with the finetuned model
+  ## - Supervised fine tuning an LLM model (SFT)
+  ## - Further improve the model's output to align better with human preferences using technique called as "Direct Preference optimization (DPO)"
+  ## - Generate responses with the finetuned model
 
 
-## General steps to follow.
+### General steps to follow.
   - Import Libraries
   - Dataset Preparation
        - choose the dataset which will be used to fine tune the models. it should be noted that the effective results would be achieved when the nature of selected data align with the model in consideration.
