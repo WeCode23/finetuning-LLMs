@@ -30,4 +30,7 @@ Here we will first learn
   - save model checkpoint and tokenizer
   - Inference
        - Format the text and pass it in to generate response.
+   
+   *this is for the demonstration purpose due to resources constraint however for better results, the model can be trained for longer time period*
+   *------------------*
   
