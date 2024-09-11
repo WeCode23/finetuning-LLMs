@@ -3,6 +3,7 @@ An indepth understanding of supervised finetuning the large language models.
 
 This notebook consists of an end to end execution of fine tuning an existing LLM models 
 with the existing or custom datasets.
+*this excercise can be executed at Google Colab with T4 setting*
 
 Here we will first learn 
   ## - Supervised fine tuning an LLM model (SFT)
